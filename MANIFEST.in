@@ -1,0 +1,3 @@
+graft xss_demo/templates
+graft xss_demo/static
+include xss_demo/schema.sql

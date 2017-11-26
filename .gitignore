@@ -1,0 +1,4 @@
+xss_demo.db
+.eggs/
+xss_demo.egg-info/
+.cache/
