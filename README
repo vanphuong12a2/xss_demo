@@ -10,6 +10,6 @@
 
 ```flask run```
 
-## Testing
+## Tesing:
 
 ```python setup.py test```
